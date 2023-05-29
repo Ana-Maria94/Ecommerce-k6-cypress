@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce-k6-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "@testing-library/cypress": "^9.0.0",
+    "cypress": "^12.13.0",
+    "mocha": "^10.2.0",
+    "npx": "^10.2.2"
+  }
+}
